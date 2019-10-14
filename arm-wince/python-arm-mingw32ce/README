@@ -1,0 +1,2 @@
+This Folder contains some additional files and a Makefile for a Python 2.7.9 Source Tree. These additions were used to create a python core library for a WinCE-ARM-Panel
+It was compiled using a CeGCC Cross compiler.
